@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **C++,C,HTML,CSS,Javascript(Basics),Java(Basics)**
+- 💬 Ask me about **C++,C,HTML,CSS,Javascript(Basics),React(Basics),Java(Basics)**
 
 - 📫 How to reach me **himanshumalwal@gmail.com**
 
